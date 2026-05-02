@@ -5,3 +5,4 @@ c=30
 sum=0
 sum=a+b+c
 print(sum)
+print(sum*5)
